@@ -74,6 +74,7 @@ pixabay_music_*
 
 # OS
 .DS_Store
+desktop.ini
 Thumbs.db
 
 # Node (for remotion-composer/)
